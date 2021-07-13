@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Source+Sans+Pro:wght@300&display=swap');
+.chat
+{
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align:center;
+    margin: 0;
+    padding: 50;
+    padding-top: 78px;
+    min-height: 90vh;
+    background: linear-gradient(141deg, #A3D8F4 0%, #9AB3F5  51%, #7579E7 75%);
+}
+
+  
+.chatleft {
+    padding-top: 30px;
+    padding-left: 40px;
+	float: left;
+    font-size: 80px;
+    font-weight: 500;
+    margin : 50px;
+
+    
+}
+
+  .subhead
+  {  
+      padding-bottom: 20px;
+      font-family: 'Raleway', sans-serif;
+      font-size: 80px;
+      font-weight: 50;
+  }
+  .subhead2
+  {  padding-bottom: 20px;
+     
+  } 
+  
+.chatright {
+    font-family: 'Orbitron', sans-serif;
+    float: right;
+    font-size: 26px;
+    font-weight: 100;
+    padding-top: 90px;
+    padding-right: 10%;
+     /* background-color: aqua;  */
+  
+}
+
+.but2
+{ 
+    float: right;
+    margin-right: 0;
+    padding-right:20%;
+}

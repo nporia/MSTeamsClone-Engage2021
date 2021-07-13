@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Open+Sans:wght@700&family=Raleway:wght@800&family=Roboto:wght@500&display=swap');
+
+.cover {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 60px 45px;
+    color  : white;
+    background-size: cover;
+    height : 90vh;
+    /* background-color: aqua;  */
+    /* position: fixed; */
+  }
+  
+  .alignleft {
+	float: left;
+    font-size: 80px;
+    font-weight: 500;
+    margin : 40px;
+
+    
+}
+.alignright {
+    font-family: 'Orbitron', sans-serif;
+    float: right;
+    font-size: 26px;
+    font-weight: 100;
+    padding-top: 80px;
+     /* background-color: aqua;  */
+  
+}
+.bottom
+{
+    height : 90vh;
+}
+
+.bottom img
+{
+    height : 80vh;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* .one{
+      float:left;
+      background-color:pink;
+    }
+  .two{
+      float:right;
+      background-color:blue;
+    }
+    .container {
+        background: yellow;
+        width: 100%;
+        display: inline-block;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .centered-div {
+        width: 80%;
+        height: 190px;
+        margin: 10px;
+        padding: 5px;
+        background: blue;
+        color: white;
+    } */
