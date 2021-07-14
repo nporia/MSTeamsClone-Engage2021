@@ -74,11 +74,8 @@ npm i
 
 ```
  Now, if you are opening the VideoChat Application, follow these 2 steps too <br/>
- * ``` bash cd client ```
-* ```bash
-npm i
-
-```
+ * ``` cd client ```
+* ```npm i ```
 
 After the required packages are installed, run the following command:
 
