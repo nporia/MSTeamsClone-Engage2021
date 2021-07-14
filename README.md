@@ -5,7 +5,7 @@
 
 This project was built under the Microsoft Engage Program for 2021.
 
-[Watch the Demo on YouTube]("https://www.youtube.com/watch?v=u9aFLrz6RB8")
+[Watch the Demo on YouTube]https://www.youtube.com/watch?v=u9aFLrz6RB8
 
 ## Table of contents
 * Features of the Application (With Demo)
