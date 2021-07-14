@@ -46,6 +46,26 @@ Open the repository with your code editor. In case you do not have a code editor
 code .
 
 ```
+Change directory to the react app you want to start
+```bash
+cd ChatApplication
+
+```
+or
+```bash
+cd frontend
+
+```
+or 
+```bash
+cd VideoChat
+
+```
+or
+```bash
+cd ToDolist
+
+```
 
 Open the terminal in Visual code by pressing Ctrl+J (Windows) and run the following commands:
 
@@ -53,6 +73,16 @@ Open the terminal in Visual code by pressing Ctrl+J (Windows) and run the follow
 npm i
 
 ```
+ Now, if you are opening the VideoChat Application, follow these 2 steps too <br/>
+ * ```bash
+cd client
+
+```
+* ```bash
+npm i
+
+```
+
 After the required packages are installed, run the following command:
 
 ```bash
