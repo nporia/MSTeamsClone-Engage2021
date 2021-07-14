@@ -1,5 +1,5 @@
-![alt text](https://drive.google.com/file/d/1UxnhxZD1qFX7tVtIgrVDW8JG0z1G3lIV/view)
-![alt text](https://drive.google.com/file/d/1_DJDtsUZ4orUb2rfVfxYqYwoXmlOdFWR/view)
+<img width="1440" alt="Screenshot 2021-07-14 at 11 49 11 PM" src="https://user-images.githubusercontent.com/20817990/125680594-ac58a82c-4fab-4710-90a4-bfbb1e41f8bd.png">
+<img width="1440" alt="Screenshot 2021-07-14 at 11 49 18 PM" src="https://user-images.githubusercontent.com/20817990/125680668-4c28a360-7641-400d-a988-46da6128c262.png">
 
 # MSTeamsClone-Engage2021 by Nikita 
 
