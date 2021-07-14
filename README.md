@@ -74,10 +74,7 @@ npm i
 
 ```
  Now, if you are opening the VideoChat Application, follow these 2 steps too <br/>
- * ```bash
-cd client
-
-```
+ * ``` bash cd client ```
 * ```bash
 npm i
 
