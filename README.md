@@ -30,7 +30,7 @@ This project was built under the Microsoft Engage Program for 2021.
 * To do List 
 
 # Installation
-These are 4 different react apps. To use any one of them, follow the steps below: <br />
+These are 4 different react apps. To use any one of them, follow the steps below: <br /> <br />
 Initialise git on your terminal.
 ```bash
 git init
