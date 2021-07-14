@@ -10,8 +10,6 @@ This project was built under the Microsoft Engage Program for 2021.
 ## Table of contents
 * Features of the Application (With Demo)
 * Installation
-* Tech Stack Selection
-* Usage of Agile Methodology
 * Try The Web Application
 * Support and Contact
 
@@ -30,5 +28,44 @@ This project was built under the Microsoft Engage Program for 2021.
 * Video on/off
 * Disconnect call
 * To do List 
+
+# Installation
+These are 4 different react apps. To use any one of them, follow the steps below:
+Initialise git on your terminal.
+```bash
+git init
+```
+
+Clone this repository.
+```bash
+git clone https://github.com/nporia/MSTeamsClone-Engage2021
+
+```
+Open the repository with your code editor. In case you do not have a code editor, it is recommended you use Visual Studio Code.
+```bash
+code .
+
+```
+
+Open the terminal in Visual code by pressing Ctrl+J (Windows) and run the following commands:
+
+```bash
+npm i
+
+```
+After the required packages are installed, run the following command:
+
+```bash
+npm start
+
+```
+
+## Try The Web Application
+
+Try the MS Teams Clone Web App [here](https://microsoft-teams-clone-app.netlify.app/).
+
+# Support and Contact
+Email To: porianikita262@gmail.com
+
 
 
